@@ -1,4 +1,6 @@
-# python-iniciacao-mecatronica
+<p align="center">
+  <img src="assets/pytthon.png" width="75%" alt="Banner do Repositório">
+</p>
 
 # 🐍 Curso de Iniciação em Python  
 ## Curso Técnico em Mecatrônica — Centro de Formação Profissional
