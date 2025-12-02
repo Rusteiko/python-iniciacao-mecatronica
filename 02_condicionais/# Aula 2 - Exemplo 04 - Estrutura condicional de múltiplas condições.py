@@ -8,7 +8,8 @@ Original file is located at
 
 #Tomada de decisões com if, elif, e else.
 
-"""##Estrutura condicional de múltiplas condições"""
+##Condição Multiplas condições
+"""
 
 # Aula 2 - Exemplo 04 - Estrutura condicional de múltiplas condições
 valor1 = float(input("Informe um valor qualquer: "))
@@ -22,4 +23,3 @@ elif valor1 < valor2:
     print(f"O primeiro valor {valor1} é diferente do segundo {valor2}")
 elif valor1 == valor2:
       print(f"O primeiro valor {valor1} é igual ao segundo {valor2}")
-
