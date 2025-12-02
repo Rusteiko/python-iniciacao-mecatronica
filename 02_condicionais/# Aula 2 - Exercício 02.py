@@ -10,8 +10,6 @@ Original file is located at
 
 """# Exercícios
 
-##01 - Verifique se um número é positivo, negativo ou zero"""
-
 # Aula 2 - Exercício 02
 # Verificação simples se um ano é bissexto
 ano = int(input("Informe um ano qualquer: "))
