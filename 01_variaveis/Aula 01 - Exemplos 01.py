@@ -8,10 +8,9 @@ Original file is located at
 
 # Aula 01 - Exemplos
 
-Versão simples
+# Aula 01 - Exemplos 01
 """
 
-# Aula 01 - Exemplos 01
 nome = "João"       # variável do tipo str
 idade = 25          # variável do tipo int
 altura = 1.75       # variável do tipo float
