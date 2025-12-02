@@ -1,7 +1,6 @@
 """# Exercícios
 
-"""Receba dois valores numéricos e exiba a soma, diferença, produto e divisão desses valores informados
-"""
+#Receba dois valores numéricos e exiba a soma, diferença, produto e divisão desses valores informados
 
 # Aula 01 - Exercício 03
 valor1 = float(input("Informe o primeiro valor --> "))
