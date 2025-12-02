@@ -10,8 +10,6 @@ Original file is located at
 
 """# Exercícios
 
-##01 - Verifique se um número é positivo, negativo ou zero"""
-
 # Aula 2 - Exercício 01
 # Verifique se um número é positivo, negativo ou zero
 valor = float(input("Informe um valor qualquer: "))
