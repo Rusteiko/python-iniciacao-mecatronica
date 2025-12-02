@@ -8,7 +8,8 @@ Original file is located at
 
 #Tomada de decisões com if, elif, e else.
 
-"""##Condição composta"""
+##Condição Composta
+"""
 
 # Aula 2 - Exemplo 02 - Condição composta
 valor1 = float(input("Informe um valor qualquer: "))
