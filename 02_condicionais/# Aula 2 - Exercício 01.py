@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/12mj7mAs0QA7de_0m1DUUgoLp3Js63YHk
 
 #Tomada de decisões com if, elif, e else.
-
-"""# Exercícios
-
+"""
 # Aula 2 - Exercício 01
 # Verifique se um número é positivo, negativo ou zero
 valor = float(input("Informe um valor qualquer: "))
