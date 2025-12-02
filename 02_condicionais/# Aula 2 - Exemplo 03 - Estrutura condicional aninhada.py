@@ -8,7 +8,8 @@ Original file is located at
 
 #Tomada de decisões com if, elif, e else.
 
-"""##Estrutura condicional aninhada"""
+##Condição Aninhada
+"""
 
 # Aula 2 - Exemplo 03 - Estrutura condicional aninhada
 valor1 = float(input("Informe um valor qualquer: "))
@@ -25,4 +26,3 @@ else:
     else:
       if valor1 != valor2:
         print(f"O primeiro valor {valor1} é diferente do segundo {valor2}")
-
